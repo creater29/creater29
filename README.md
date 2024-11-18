@@ -15,29 +15,6 @@
 
 ---
 
-## 🚀 Featured Projects:
-### Scalable Machine Learning Data Pipeline
-- Automated ingestion, transformation, and storage of machine learning datasets.
-- Reduced pipeline latency by 40% and enabled faster model iteration.
-- Tools: Python, Airflow, Kubernetes, SQL  
-
-🔗 [Repository Link](#)  
-
-### Distributed Training Scheduler for ML Models
-- Designed a fault-tolerant scheduler for distributed ML training on Azure.
-- Containerized monitoring systems, achieving a 30% boost in efficiency.
-- Tools: Python, Docker, Azure  
-
-🔗 [Repository Link](#)
-
-### Image Data Pipeline Performance Optimization
-- Improved image processing pipeline by 25% through threading optimizations.
-- Tools: Python, OpenCV, TensorFlow  
-
-🔗 [Repository Link](#)
-
----
-
 ## 📫 Contact Me:
 - **Email**: armanbishnoi.official@gmail.com  
 - **Phone**: +91 7357416347  
