@@ -7,10 +7,10 @@
 ---
 
 ## 🔧 Skills & Technologies:
-- **Programming Languages**: Python
+- **Programming Languages**: Python, SQL, C and C++
 - **Machine Learning Systems**: Distributed Training, Transformers, Fault Tolerance, ETL
 - **Infrastructure**: Kubernetes, Docker, Airflow, Azure, AWS
-- **Data Handling**: SQL, Real-Time Data Processing, Pipelines
+- **Data Handling**: Real-Time Data Processing, Pipelines
 - **System Optimization**: Memory Management, Parallel Processing, Profiling
 
 ---
